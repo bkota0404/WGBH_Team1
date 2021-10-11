@@ -2,6 +2,16 @@
 
 [Project Description](Project_Description.pdf)
 
+### Datasets
+
+---
+
+[EPA Beach Map](https://watersgeo.epa.gov/beacon2/)
+
+[Massachusetts Coast Guide](https://mass-eoeea.maps.arcgis.com/apps/MapSeries/index.html?appid=35ba833bdc704d49b71a71c511224eb6)
+
+---
+
 ### Deliverable 0
 
 - [x] Reviewed all previous material
