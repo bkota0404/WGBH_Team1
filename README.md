@@ -12,7 +12,15 @@
 
 ---
 
-### Deliverable 0
+### Weekly meeting Schedule
+    TBD
+---
+
+### Bi-weekly Client Meeting Schedule
+    TBD
+---
+
+### Deliverable 0 by Oct 13
 
 - [x] Reviewed all previous material
 - [ ] Revised scope of the project if needed
