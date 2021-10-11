@@ -1,1 +1,12 @@
-# WGBH_Team1
+# WGBH Team 1
+
+[Project Description](Project_Description.pdf)
+
+### Deliverable 0
+
+- [x] Reviewed all previous material
+- [ ] Revised scope of the project if needed
+- [ ] Identify / list limitations with data and potential risks of achieving project goal
+- [x] Meet with client to review the project
+- [x] Schedule weekly meetings with PMs and bi-weekly with client
+- [ ] Submit a PR with the revised project proposal including list of limitations
