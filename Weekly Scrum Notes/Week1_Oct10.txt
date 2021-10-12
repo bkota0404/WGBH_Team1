@@ -4,7 +4,7 @@ Notes:
 3. Setup the repo for the project on Github and listed the limitations
 
 To-do tasks for next week:
-1. Process a preliminary batch of data and analise it.
+1. Process a preliminary batch of data and analyze it.
 2. Re-evaluate the scope and potentials risks of achieving the project goal.
 
 Client contact:
