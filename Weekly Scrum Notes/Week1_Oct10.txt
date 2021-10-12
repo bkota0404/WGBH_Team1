@@ -1,0 +1,8 @@
+Notes:
+1. Discussed the project expectations with the client.
+2. Discussed the limitations and scope of project as a team.
+3. Setup the repo for the project on Github and listed the limitations
+
+To-do tasks for next week:
+1. Process a preliminary batch of data and analise it.
+2. Re-evaluate the scope and potentials risks of achieving the project goal.
