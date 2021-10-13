@@ -2,6 +2,7 @@ Notes:
 1. Discussed the project expectations with the client.
 2. Discussed the limitations and scope of project as a team.
 3. Setup the repo for the project on Github and listed the limitations
+4. Created a pull request to the repo.
 
 To-do tasks for next week:
 1. Process a preliminary batch of data and analyze it.
