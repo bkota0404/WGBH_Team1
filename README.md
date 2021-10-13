@@ -13,9 +13,8 @@
 ---
 
 ### Weekly meeting Schedule
-Every Wednesday, 11:00AM - 12:00PM EST
-[Google Meet Link] (meet.google.com/ykb-ocbk-szt)
-[Zoom Invite] (https://bostonu.zoom.us/j/5162479087)
+    Every Wednesday, 11:00AM - 12:00PM EST
+    meet.google.com/ykb-ocbk-szt
 ---
 
 ### Deliverable 0 by Oct 13
