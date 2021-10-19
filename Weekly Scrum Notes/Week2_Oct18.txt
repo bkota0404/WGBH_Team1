@@ -1,0 +1,5 @@
+Notes:
+1. Discussed the possible limitations and the gaps in the datasets.
+2. Working on the scraping data from dataset1
+3. Created a sample code to merge the data from both the datasets.
+4. Extracted data from dataset2 containing beach length in miles, latitude and longitude coordinates.
