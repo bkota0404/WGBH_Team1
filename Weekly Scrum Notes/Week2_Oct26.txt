@@ -1,0 +1,4 @@
+Notes:
+1. Working on the scraping initial batch of data from dataset1
+2. Working on finding concrete solution to overcome the dataset 1 limitations wherein data is distributed across different sites
+
