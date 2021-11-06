@@ -1,0 +1,14 @@
+Notes:
+1. Check with John about 'Answer one key question' mentioned for Deliverable1.
+2. Anna to work on data parcel mentioned on 'official website of the Commonwealth of Massachusetts ' from - https://www.mass.gov/info-details/massgis-data-property-tax-parcels#digital-parcel-standard-.
+3. Bhagyasri to work on data extract from a different data source identified -'https://buzzardsbay.org/enjoy-buzzards-bay/beach-information/'
+4. Stephan to update the BU Spark repo with Project Description file and clean up of the internal repository created
+5. Shaneka and Colin - try to find more datasets we can leverage for the updated information to beach accessibility.
+
+6. Below are the few links Bhagyasri found from where we could get some data:
+
+https://www.mass.gov/orgs/massachusetts-office-of-coastal-zone-management - has contact info for their office. I tried reaching out to them on the phone and via emails but was successful. Please use the info on this link to try and reach out to them.
+
+https://www.mass.gov/info-details/massgis-data-property-tax-parcels#digital-parcel-standard-
+https://buzzardsbay.org/enjoy-buzzards-bay/beach-information/
+
