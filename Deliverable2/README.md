@@ -7,6 +7,7 @@
 ---
 
 [Buzzards Bay Beach Map](https://buzzardsbay.org/enjoy-buzzards-bay/beach-information/)
+
 [EPA Beach Map](https://watersgeo.epa.gov/beacon2/)
 
 ---
