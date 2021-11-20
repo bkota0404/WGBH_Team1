@@ -37,7 +37,7 @@
 
 
 ### Confirmation Mail from MA Coastal Zone Management regarding Dataset
-![Email Confirmation](EmailConfirmation.pdf)
+[Email Confirmation](EmailConfirmation.pdf)
 
 
 
